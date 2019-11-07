@@ -1,0 +1,69 @@
+body{
+    margin: 0%;
+}
+div{
+    float: left;
+    width: 50%;
+    padding-top: 200px;
+    box-sizing: border-box;
+}
+.qutu1{
+    background-color: #1da1f2;
+    background-image: url(tw3.png);
+    background-repeat: no-repeat;
+    text-align: center;
+    height: 100vh;
+    text-align: center;
+    
+}
+.qutu1 ul{
+    list-style: none;
+}
+.qutu1 ul li{
+    margin-top: 15px;
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+    font-family: "Segoe UI",Arial,sans-serif;
+}
+.qutu1 ul li i{
+    margin: 10px;
+
+}
+
+.qutu2{
+    padding: 150px 80px;
+}
+.qutu2 input{
+    width: 50%;
+    margin-bottom: 10px;
+    padding: 15px;
+    border-radius: 20px;
+    font-size: 16px;
+    font-weight: 700;
+    transition: .3s;
+}
+.qutu2 .input1{
+    background-color: #1da1f2;
+    color: white;
+    border: 1px solid #1da1f2;
+    
+}
+.qutu2 .input2{
+    background:transparent;
+    color: #1da1f2;
+    border: 1px solid #1da1f2;
+}
+.qutu2 h1{
+    font-size:2em;
+}
+
+.qutu2 .input1:hover{
+    background: #1c94e0;
+
+
+}
+.qutu2 .input2:hover{
+    background: #eaf5fd;
+}
+
